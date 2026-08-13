@@ -9,7 +9,7 @@ The objective is to transform raw e-commerce data into meaningful **business ins
 
 ## 📸 Dashboard Preview
 
-![E-Commerce Sales Dashboard](Screenshots/ecommerce-dashboard.png)
+![E-Commerce Sales Dashboard](ecommerce-dashboard.png.png)
 
 > **Interactive Excel Dashboard:** The dashboard provides a consolidated view of sales, profit, orders, quantity sold, average order value, return rate, category performance, regional performance, payment methods, monthly revenue trends, and category-wise return rates.
 
