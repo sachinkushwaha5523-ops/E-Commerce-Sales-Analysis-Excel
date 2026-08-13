@@ -6,6 +6,7 @@ This project analyzes e-commerce sales data using **Microsoft Excel** to identif
 
 The objective is to transform raw e-commerce data into meaningful **business insights and interactive visualizations** that can support data-driven decision-making.
 
+
 ## 📸 Dashboard Preview
 
 ![E-Commerce Sales Dashboard](Screenshots/ecommerce-dashboard.png)
